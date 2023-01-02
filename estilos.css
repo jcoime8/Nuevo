@@ -1,0 +1,35 @@
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.61);
+    align-items: center;
+}
+
+label{
+    display: flex;
+    flex-direction: column;
+}
+.tres{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.parrafo{
+    width: 209px;
+    height: 40px;
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+
+}
+input{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 208px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    background-color: aqua;
+}
